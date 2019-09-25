@@ -1,0 +1,12 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\bin\Debug\ManyToMany.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\bin\Debug\ManyToMany.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\bin\Debug\ManyToMany.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\bin\Debug\EntityFramework.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\bin\Debug\EntityFramework.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\obj\Debug\ManyToMany.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\obj\Debug\ManyToMany.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\obj\Debug\ManyToMany.csproj.CopyComplete
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\obj\Debug\ManyToMany.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\ManyToMany\ManyToMany\obj\Debug\ManyToMany.pdb
